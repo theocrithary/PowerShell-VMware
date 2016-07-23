@@ -1,0 +1,7 @@
+# PowerShell-VMware
+
+Contains a collection of VMware PowerCLI scripts developed during my days in operations.
+
+-- PLEASE USE AT YOUR OWN RISK AND TEST THOUROUGHLY BEFORE RUNNING IN PRODUCTION ENVIRONMENTS.
+
+** I TAKE NO RESPONSIBILITY FOR ERRORS AND ISSUES CAUSED BY THESE SCRIPTS **
